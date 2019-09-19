@@ -11,4 +11,4 @@ You should have Csvmidi.exe in the same folder as the file.
 
 remember that for chords you can't just put three notes right below each other. imagine each layer is like a line. in each layer you should add one note of the chord.
 
-##### Results are inside Example folder
+##### check out the example videos and final audios for each example
